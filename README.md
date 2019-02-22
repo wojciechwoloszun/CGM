@@ -1,2 +1,2 @@
-# GCM
+# CGM
 CGM task
